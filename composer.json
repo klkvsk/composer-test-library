@@ -1,0 +1,13 @@
+{
+    "name": "klkvsk/composer-test-library",
+    "authors": [
+        {
+            "name": "klkvsk",
+            "email": "m@klkvsk.ru"
+        }
+    ],
+    "autoload": {
+        "files": [ "lib.php" ]
+    },
+    "require": {}
+}
